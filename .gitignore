@@ -3,3 +3,8 @@ node_modules/
 out/
 .env.local
 .env.*
+node_modules/
+.next/
+out/
+.env.local
+.env.*
